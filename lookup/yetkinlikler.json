@@ -1,0 +1,100 @@
+{
+  "etik_durus_ve_mesleki_cesaret": {
+    "sorular": [
+      "Etik kurallara bagli kalarak karar alir.",
+      "Uygun olmayan davranislara karsi net bir durus sergiler.",
+      "Baski altinda dogru olan i savunur."
+    ]
+  },
+  "acik_iletisim_ve_bilgi_paylasimi": {
+    "sorular": [
+      "Bilgiyi acik, net ve anlasilir sekilde iletir.",
+      "Kritik bilgileri dogru zamanda paylasir.",
+      "Karsisindakini etkin sekilde dinler."
+    ]
+  },
+  "isbirligi_ve_kapsayici_calisma": {
+    "sorular": [
+      "Farkli ekiplerle etkili sekilde isbirligi kurar.",
+      "Kapsayici ve destekleyici bir tutum sergiler.",
+      "Ekip icinde fikir alisverisine aciktir."
+    ]
+  },
+  "problem_cozme_ve_analitik_dusunme": {
+    "sorular": [
+      "Karmasik durumlari analiz edip cozum onerileri sunar.",
+      "Veriyi kullanarak mantikli kararlar alir.",
+      "Sorunlari onceden tespit edip proaktif davranir."
+    ]
+  },
+  "teknik_uzmanlik_ve_alan_bilgisi": {
+    "sorular": [
+      "Gorevi icin gerekli teknik bilgilere hakimdir.",
+      "Yeni teknolojileri veya yontemleri ogrenir ve uygular.",
+      "Teknik sorunlari etkin sekilde cozer."
+    ]
+  },
+  "emniyet_kalite_ve_risk_farkindaligi": {
+    "sorular": [
+      "Emniyet ve kalite standartlarina tam uyum gosterir.",
+      "Riskleri zamaninda tespit edip raporlar.",
+      "Sahadaki prosedurlere disiplinle uyar."
+    ]
+  },
+  "surec_ve_prosedur_disiplini": {
+    "sorular": [
+      "Prosedurlere ve is akislarina eksiksiz uyar.",
+      "Gerektiginde surec iyilestirme onerileri sunar.",
+      "Dokumantasyon ve kayit duzenine dikkat eder."
+    ]
+  },
+  "stratejik_dusunme_ve_vizyon_olusturma": {
+    "sorular": [
+      "Buyuk resmi gorerek kararlar alir.",
+      "Ekip hedeflerini kurum hedefleri ile hizalar.",
+      "Uzun vadeli etkileri hesaba katar."
+    ]
+  },
+  "yonetsel_cesaret_ve_karar_kalitesi": {
+    "sorular": [
+      "Zor durumlarda net ve kararlı kararlar alir.",
+      "Karar alirken tum verileri ve etkileri goz onunde bulundurur.",
+      "Gerektiginde populer olmayan kararlar almaktan cekinmez."
+    ]
+  },
+  "performans_yonetimi_ve_geri_bildirim": {
+    "sorular": [
+      "Performans beklentilerini acik bir sekilde tanimlar.",
+      "Calisanlara duzenli ve yapici geri bildirim verir.",
+      "Performansi objektif kriterlere gore degerlendirir."
+    ]
+  },
+  "insan_gelistirme_ve_kocluk": {
+    "sorular": [
+      "Ekip uyelerinin potansiyelini ortaya cikarmaya destek olur.",
+      "Gelisim firsatlarini aktif olarak saglar.",
+      "Kocluk ve mentorluk yaklasimlarini uygular."
+    ]
+  },
+  "paydas_yonetimi_ve_etki_olusturma": {
+    "sorular": [
+      "Paydaslarla etkin iletisim kurar.",
+      "Karsi tarafin beklentilerini dogru sekilde yonetir.",
+      "Goruslerini ikna edici sekilde aktarir."
+    ]
+  },
+  "degisim_yonetimi_ve_org_ceviklik": {
+    "sorular": [
+      "Degisen kosullara hizli uyum saglar.",
+      "Degisim sureclerini ekiple birlikte etkin sekilde yonetir.",
+      "Belirsizlik altinda sagduyulu davranir."
+    ]
+  },
+  "kaynak_yonetimi_ve_operasyonel_surukleyicilik": {
+    "sorular": [
+      "Zaman, butce ve insan kaynagını verimli kullanir.",
+      "Isleri onceliklendirerek hedeflere ulasir.",
+      "Operasyonel sureclerin duzenli islemesini saglar."
+    ]
+  }
+}

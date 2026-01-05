@@ -1,0 +1,121 @@
+{
+  "Analitik Düşünme": {
+    "strong": [
+      "Karmaşık problemler için kök-neden analizi çalışmalarına liderlik et.",
+      "Ekibi analitik düşünme yöntemleri konusunda mentorluk yap.",
+      "Proses iyileştirme projelerinde fasilitatör ol."
+    ],
+    "medium": [
+      "Sorunları analiz ederken veri toplama yöntemlerini geliştir.",
+      "Karar almadan önce alternatif seçenekler oluştur.",
+      "Analitik düşünme için temel eğitim veya workshoplara katıl."
+    ],
+    "weak": [
+      "Temel problem çözme araçlarını (5N1K, Pareto, Ishikawa) öğren.",
+      "Problem tespiti için kontrol listeleri kullan.",
+      "Küçük kapsamlı sorun çözüm çalışmalarına katılmaya başla."
+    ]
+  },
+  "Emniyet": {
+    "strong": [
+      "Emniyet ve kalite süreçlerinde iyileştirme çalışmalarına liderlik et.",
+      "Ekip için risk farkındalığı eğitimleri düzenle.",
+      "Risk raporlama kültürünün gelişmesi için örnek ol."
+    ],
+    "medium": [
+      "Günlük çalışmalarda risk tespiti için kontrol listesi kullan.",
+      "Kalite raporlarını düzenli olarak takip et.",
+      "Riskli durumları yönetici ile birlikte değerlendir."
+    ],
+    "weak": [
+      "Emniyet ve kalite temel eğitimine katıl.",
+      "SOP ve talimatları yeniden gözden geçir.",
+      "Risk tespiti için basit gözlem çalışmaları yap."
+    ]
+  },
+  "Etik Duruş": {
+    "strong": [
+      "Etik davranış konularında ekip için rehberlik rolünü üstlen.",
+      "Organizasyonun etik standartlarının geliştirilmesi için komitelere katıl.",
+      "Zor durumlarda etik karar alma süreçlerini mentorluk ederek paylaş."
+    ],
+    "medium": [
+      "Günlük kararlarında etik ilkeleri uygulamaya odaklan.",
+      "Karşılaştığın gri alan durumlarını yöneticinle değerlendir.",
+      "Etik ikilemlerle ilgili eğitim veya workshoplara katıl."
+    ],
+    "weak": [
+      "Etik davranış eğitimine kaydol ve temel ilkeleri gözden geçir.",
+      "Etik olmayan durumları fark etmeye odaklanarak örnek olay analizleri yap.",
+      "Karar alma sürecinde etik kontrol listesi kullan."
+    ]
+  },
+  "İletişim": {
+    "strong": [
+      "Ekip içinde bilgi akışının güçlenmesi için paylaşım oturumları düzenle.",
+      "Proje raporlama standartlarını geliştirerek paydaşlarla tanımla.",
+      "Zor iletişim durumlarında ekibe mentorluk yap."
+    ],
+    "medium": [
+      "Toplantılarda görüşlerini daha net ifade etmeye odaklan.",
+      "İletişimi düzeltmek için geri bildirim iste.",
+      "Bilgi paylaşımını sistematik hale getirmek için haftalık notlar oluştur."
+    ],
+    "weak": [
+      "Temel iletişim teknikleri eğitimine katıl.",
+      "Mesajlarını iletmeden önce kısaca taslak hazırla.",
+      "Ekipten iletişim biçimlerinle ilgili geri bildirim topla."
+    ]
+  },
+  "İşbirliği": {
+    "strong": [
+      "Farklı ekipler arasında bağlantı rolü üstlenerek işbirliği modelleri oluştur.",
+      "Kapsayıcılık kültürünün gelişmesi için fasilitatör rolünde bulun.",
+      "Ekipler arası çalışma gruplarına liderlik et."
+    ],
+    "medium": [
+      "Ekip arkadaşlarının görüşlerini aktif olarak dinlemeyi hedefle.",
+      "Kapsayıcı davranış alışkanlıklarını geliştirmek için geri bildirim al.",
+      "Fonksiyonlar arası çalışmalarda daha fazla rol al."
+    ],
+    "weak": [
+      "İşbirliği eğitimine katılarak temel prensipleri öğren.",
+      "Takım arkadaşlarının rollerini daha iyi anlamak için birebir görüşmeler yap.",
+      "Daha kapsayıcı davranışlar için kendine haftalık hedefler koy."
+    ]
+  },
+  "Teknik Uzmanlık": {
+    "strong": [
+      "Teknik bilgi konusunda ekip içinde danışmanlık rolü üstlen.",
+      "Alanınızla ilgili ileri seviye sertifika programlarına katılın.",
+      "Teknolojik trendleri takip ederek ekibe düzenli bilgi oturumları düzenle."
+    ],
+    "medium": [
+      "Teknik yetkinliklerini geliştirmek için hedefli eğitimler al.",
+      "Yeni araçları veya teknolojileri projende uygulamayı dene.",
+      "Kıdemli uzmanlardan teknik mentorluk talep et."
+    ],
+    "weak": [
+      "Temel teknik eğitimlere katılarak bilgi seviyeni güçlendir.",
+      "Görevin için gereken teknik terminolojiyi öğren.",
+      "Teknik dokümanları inceleyerek temel seviyede pratik yap."
+    ]
+  },
+  "Süreç Disiplini": {
+    "strong": [
+      "Süreç iyileştirme projelerinde aktif rol al.",
+      "Doküman yönetimi konusunda ekibe mentorluk yap.",
+      "Prosedür sapmalarını analiz ederek iyileştirme önerileri getir."
+    ],
+    "medium": [
+      "SOP ve prosedür adımlarını daha düzenli uygulamaya odaklan.",
+      "Süreç akışını gözlemleyerek aksayan noktalar için notlar al.",
+      "Prosedür dışı durumlarda düzeltici aksiyonları takip et."
+    ],
+    "weak": [
+      "Prosedür ve talimatları temel seviyede yeniden incele.",
+      "SOP adımlarını uygulamadan önce kontrol listesi kullan.",
+      "Doküman okuma ve uygulama tekniklerine yönelik eğitime katıl."
+    ]
+  }
+}

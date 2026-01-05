@@ -1,0 +1,37 @@
+{
+    "beyaz_yaka": {
+        "default_weights": {
+            "yonetici1": 0.50,
+            "ekip": 0.25,
+            "ortak": 0.25,
+            "ast": 0.25
+        },
+        "allowed_groups": [
+            "yonetici1",
+            "ekip",
+            "ortak",
+            "ast"
+        ],
+        "min_max_rules": {
+            "yonetici1": { "min": 1, "max": 1 },
+            "ekip": { "min": 3, "max": 5 },
+            "ortak": { "min": 3, "max": 5 },
+            "ast": { "min": 0, "max": 5 }
+        }
+    },
+
+    "mavi_yaka": {
+        "default_weights": {
+            "yonetici1": 0.50,
+            "yonetici2": 0.50
+        },
+        "allowed_groups": [
+            "yonetici1",
+            "yonetici2"
+        ],
+        "min_max_rules": {
+            "yonetici1": { "min": 1, "max": 1 },
+            "yonetici2": { "min": 0, "max": 1 }
+        }
+    }
+}

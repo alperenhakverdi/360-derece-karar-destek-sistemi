@@ -1,0 +1,421 @@
+employee_id,employee_name,role,evaluator_name,evaluator_group,competency,question_id,score
+001,Merve Karaca,Mühendis,Ahmet Güler,Yönetici,Etik Duruş,Q1,3
+001,Merve Karaca,Mühendis,Deniz Tok,Ekip,Etik Duruş,Q1,4
+001,Merve Karaca,Mühendis,Ayşe Nur Pek,Ekip,Etik Duruş,Q1,2
+001,Merve Karaca,Mühendis,Furkan Şahin,Ekip,Etik Duruş,Q1,3
+001,Merve Karaca,Mühendis,Ahmet Güler,Yönetici,Etik Duruş,Q2,4
+001,Merve Karaca,Mühendis,Deniz Tok,Ekip,Etik Duruş,Q2,3
+001,Merve Karaca,Mühendis,Ayşe Nur Pek,Ekip,Etik Duruş,Q2,3
+001,Merve Karaca,Mühendis,Furkan Şahin,Ekip,Etik Duruş,Q2,4
+001,Merve Karaca,Mühendis,Ahmet Güler,Yönetici,Etik Duruş,Q3,5
+001,Merve Karaca,Mühendis,Deniz Tok,Ekip,Etik Duruş,Q3,3
+001,Merve Karaca,Mühendis,Ayşe Nur Pek,Ekip,Etik Duruş,Q3,2
+001,Merve Karaca,Mühendis,Furkan Şahin,Ekip,Etik Duruş,Q3,2
+001,Merve Karaca,Mühendis,Ahmet Güler,Yönetici,İletişim,Q1,4
+001,Merve Karaca,Mühendis,Deniz Tok,Ekip,İletişim,Q1,3
+001,Merve Karaca,Mühendis,Ayşe Nur Pek,Ekip,İletişim,Q1,3
+001,Merve Karaca,Mühendis,Furkan Şahin,Ekip,İletişim,Q1,2
+001,Merve Karaca,Mühendis,Ahmet Güler,Yönetici,İletişim,Q2,5
+001,Merve Karaca,Mühendis,Deniz Tok,Ekip,İletişim,Q2,3
+001,Merve Karaca,Mühendis,Ayşe Nur Pek,Ekip,İletişim,Q2,3
+001,Merve Karaca,Mühendis,Furkan Şahin,Ekip,İletişim,Q2,2
+001,Merve Karaca,Mühendis,Ahmet Güler,Yönetici,İletişim,Q3,2
+001,Merve Karaca,Mühendis,Deniz Tok,Ekip,İletişim,Q3,5
+001,Merve Karaca,Mühendis,Ayşe Nur Pek,Ekip,İletişim,Q3,3
+001,Merve Karaca,Mühendis,Furkan Şahin,Ekip,İletişim,Q3,2
+001,Merve Karaca,Mühendis,Ahmet Güler,Yönetici,İşbirliği,Q1,5
+001,Merve Karaca,Mühendis,Deniz Tok,Ekip,İşbirliği,Q1,2
+001,Merve Karaca,Mühendis,Ayşe Nur Pek,Ekip,İşbirliği,Q1,3
+001,Merve Karaca,Mühendis,Furkan Şahin,Ekip,İşbirliği,Q1,2
+001,Merve Karaca,Mühendis,Ahmet Güler,Yönetici,İşbirliği,Q2,4
+001,Merve Karaca,Mühendis,Deniz Tok,Ekip,İşbirliği,Q2,3
+001,Merve Karaca,Mühendis,Ayşe Nur Pek,Ekip,İşbirliği,Q2,2
+001,Merve Karaca,Mühendis,Furkan Şahin,Ekip,İşbirliği,Q2,5
+001,Merve Karaca,Mühendis,Ahmet Güler,Yönetici,İşbirliği,Q3,5
+001,Merve Karaca,Mühendis,Deniz Tok,Ekip,İşbirliği,Q3,5
+001,Merve Karaca,Mühendis,Ayşe Nur Pek,Ekip,İşbirliği,Q3,3
+001,Merve Karaca,Mühendis,Furkan Şahin,Ekip,İşbirliği,Q3,3
+001,Merve Karaca,Mühendis,Ahmet Güler,Yönetici,Analitik,Q1,5
+001,Merve Karaca,Mühendis,Deniz Tok,Ekip,Analitik,Q1,2
+001,Merve Karaca,Mühendis,Ayşe Nur Pek,Ekip,Analitik,Q1,2
+001,Merve Karaca,Mühendis,Furkan Şahin,Ekip,Analitik,Q1,4
+001,Merve Karaca,Mühendis,Ahmet Güler,Yönetici,Analitik,Q2,5
+001,Merve Karaca,Mühendis,Deniz Tok,Ekip,Analitik,Q2,2
+001,Merve Karaca,Mühendis,Ayşe Nur Pek,Ekip,Analitik,Q2,5
+001,Merve Karaca,Mühendis,Furkan Şahin,Ekip,Analitik,Q2,5
+001,Merve Karaca,Mühendis,Ahmet Güler,Yönetici,Analitik,Q3,4
+001,Merve Karaca,Mühendis,Deniz Tok,Ekip,Analitik,Q3,5
+001,Merve Karaca,Mühendis,Ayşe Nur Pek,Ekip,Analitik,Q3,2
+001,Merve Karaca,Mühendis,Furkan Şahin,Ekip,Analitik,Q3,2
+001,Merve Karaca,Mühendis,Ahmet Güler,Yönetici,Teknik,Q1,3
+001,Merve Karaca,Mühendis,Deniz Tok,Ekip,Teknik,Q1,5
+001,Merve Karaca,Mühendis,Ayşe Nur Pek,Ekip,Teknik,Q1,5
+001,Merve Karaca,Mühendis,Furkan Şahin,Ekip,Teknik,Q1,5
+001,Merve Karaca,Mühendis,Ahmet Güler,Yönetici,Teknik,Q2,5
+001,Merve Karaca,Mühendis,Deniz Tok,Ekip,Teknik,Q2,5
+001,Merve Karaca,Mühendis,Ayşe Nur Pek,Ekip,Teknik,Q2,5
+001,Merve Karaca,Mühendis,Furkan Şahin,Ekip,Teknik,Q2,4
+001,Merve Karaca,Mühendis,Ahmet Güler,Yönetici,Teknik,Q3,5
+001,Merve Karaca,Mühendis,Deniz Tok,Ekip,Teknik,Q3,2
+001,Merve Karaca,Mühendis,Ayşe Nur Pek,Ekip,Teknik,Q3,3
+001,Merve Karaca,Mühendis,Furkan Şahin,Ekip,Teknik,Q3,5
+001,Merve Karaca,Mühendis,Ahmet Güler,Yönetici,Emniyet,Q1,2
+001,Merve Karaca,Mühendis,Deniz Tok,Ekip,Emniyet,Q1,2
+001,Merve Karaca,Mühendis,Ayşe Nur Pek,Ekip,Emniyet,Q1,2
+001,Merve Karaca,Mühendis,Furkan Şahin,Ekip,Emniyet,Q1,4
+001,Merve Karaca,Mühendis,Ahmet Güler,Yönetici,Emniyet,Q2,2
+001,Merve Karaca,Mühendis,Deniz Tok,Ekip,Emniyet,Q2,4
+001,Merve Karaca,Mühendis,Ayşe Nur Pek,Ekip,Emniyet,Q2,3
+001,Merve Karaca,Mühendis,Furkan Şahin,Ekip,Emniyet,Q2,4
+001,Merve Karaca,Mühendis,Ahmet Güler,Yönetici,Emniyet,Q3,2
+001,Merve Karaca,Mühendis,Deniz Tok,Ekip,Emniyet,Q3,2
+001,Merve Karaca,Mühendis,Ayşe Nur Pek,Ekip,Emniyet,Q3,4
+001,Merve Karaca,Mühendis,Furkan Şahin,Ekip,Emniyet,Q3,5
+001,Merve Karaca,Mühendis,Ahmet Güler,Yönetici,Süreç,Q1,4
+001,Merve Karaca,Mühendis,Deniz Tok,Ekip,Süreç,Q1,4
+001,Merve Karaca,Mühendis,Ayşe Nur Pek,Ekip,Süreç,Q1,4
+001,Merve Karaca,Mühendis,Furkan Şahin,Ekip,Süreç,Q1,2
+001,Merve Karaca,Mühendis,Ahmet Güler,Yönetici,Süreç,Q2,4
+001,Merve Karaca,Mühendis,Deniz Tok,Ekip,Süreç,Q2,4
+001,Merve Karaca,Mühendis,Ayşe Nur Pek,Ekip,Süreç,Q2,5
+001,Merve Karaca,Mühendis,Furkan Şahin,Ekip,Süreç,Q2,2
+001,Merve Karaca,Mühendis,Ahmet Güler,Yönetici,Süreç,Q3,5
+001,Merve Karaca,Mühendis,Deniz Tok,Ekip,Süreç,Q3,5
+001,Merve Karaca,Mühendis,Ayşe Nur Pek,Ekip,Süreç,Q3,3
+001,Merve Karaca,Mühendis,Furkan Şahin,Ekip,Süreç,Q3,3
+002,Hakan Yılmaz,Uzman,Filiz Akdemir,Yönetici,Etik Duruş,Q1,3
+002,Hakan Yılmaz,Uzman,Burcu Temiz,Ekip,Etik Duruş,Q1,3
+002,Hakan Yılmaz,Uzman,Volkan Erbay,Ekip,Etik Duruş,Q1,2
+002,Hakan Yılmaz,Uzman,Emre Yalçın,Ekip,Etik Duruş,Q1,3
+002,Hakan Yılmaz,Uzman,Mehmet Kalkan,Ast,Etik Duruş,Q1,5
+002,Hakan Yılmaz,Uzman,Tuba Sarı,Ast,Etik Duruş,Q1,3
+002,Hakan Yılmaz,Uzman,Alihan Gümüş,Ast,Etik Duruş,Q1,2
+002,Hakan Yılmaz,Uzman,Filiz Akdemir,Yönetici,Etik Duruş,Q2,5
+002,Hakan Yılmaz,Uzman,Burcu Temiz,Ekip,Etik Duruş,Q2,4
+002,Hakan Yılmaz,Uzman,Volkan Erbay,Ekip,Etik Duruş,Q2,5
+002,Hakan Yılmaz,Uzman,Emre Yalçın,Ekip,Etik Duruş,Q2,3
+002,Hakan Yılmaz,Uzman,Mehmet Kalkan,Ast,Etik Duruş,Q2,5
+002,Hakan Yılmaz,Uzman,Tuba Sarı,Ast,Etik Duruş,Q2,3
+002,Hakan Yılmaz,Uzman,Alihan Gümüş,Ast,Etik Duruş,Q2,2
+002,Hakan Yılmaz,Uzman,Filiz Akdemir,Yönetici,Etik Duruş,Q3,4
+002,Hakan Yılmaz,Uzman,Burcu Temiz,Ekip,Etik Duruş,Q3,3
+002,Hakan Yılmaz,Uzman,Volkan Erbay,Ekip,Etik Duruş,Q3,4
+002,Hakan Yılmaz,Uzman,Emre Yalçın,Ekip,Etik Duruş,Q3,5
+002,Hakan Yılmaz,Uzman,Mehmet Kalkan,Ast,Etik Duruş,Q3,3
+002,Hakan Yılmaz,Uzman,Tuba Sarı,Ast,Etik Duruş,Q3,4
+002,Hakan Yılmaz,Uzman,Alihan Gümüş,Ast,Etik Duruş,Q3,5
+002,Hakan Yılmaz,Uzman,Filiz Akdemir,Yönetici,İletişim,Q1,5
+002,Hakan Yılmaz,Uzman,Burcu Temiz,Ekip,İletişim,Q1,2
+002,Hakan Yılmaz,Uzman,Volkan Erbay,Ekip,İletişim,Q1,5
+002,Hakan Yılmaz,Uzman,Emre Yalçın,Ekip,İletişim,Q1,5
+002,Hakan Yılmaz,Uzman,Mehmet Kalkan,Ast,İletişim,Q1,5
+002,Hakan Yılmaz,Uzman,Tuba Sarı,Ast,İletişim,Q1,2
+002,Hakan Yılmaz,Uzman,Alihan Gümüş,Ast,İletişim,Q1,4
+002,Hakan Yılmaz,Uzman,Filiz Akdemir,Yönetici,İletişim,Q2,3
+002,Hakan Yılmaz,Uzman,Burcu Temiz,Ekip,İletişim,Q2,3
+002,Hakan Yılmaz,Uzman,Volkan Erbay,Ekip,İletişim,Q2,3
+002,Hakan Yılmaz,Uzman,Emre Yalçın,Ekip,İletişim,Q2,4
+002,Hakan Yılmaz,Uzman,Mehmet Kalkan,Ast,İletişim,Q2,5
+002,Hakan Yılmaz,Uzman,Tuba Sarı,Ast,İletişim,Q2,4
+002,Hakan Yılmaz,Uzman,Alihan Gümüş,Ast,İletişim,Q2,3
+002,Hakan Yılmaz,Uzman,Filiz Akdemir,Yönetici,İletişim,Q3,4
+002,Hakan Yılmaz,Uzman,Burcu Temiz,Ekip,İletişim,Q3,5
+002,Hakan Yılmaz,Uzman,Volkan Erbay,Ekip,İletişim,Q3,3
+002,Hakan Yılmaz,Uzman,Emre Yalçın,Ekip,İletişim,Q3,4
+002,Hakan Yılmaz,Uzman,Mehmet Kalkan,Ast,İletişim,Q3,3
+002,Hakan Yılmaz,Uzman,Tuba Sarı,Ast,İletişim,Q3,4
+002,Hakan Yılmaz,Uzman,Alihan Gümüş,Ast,İletişim,Q3,4
+002,Hakan Yılmaz,Uzman,Filiz Akdemir,Yönetici,İşbirliği,Q1,4
+002,Hakan Yılmaz,Uzman,Burcu Temiz,Ekip,İşbirliği,Q1,5
+002,Hakan Yılmaz,Uzman,Volkan Erbay,Ekip,İşbirliği,Q1,4
+002,Hakan Yılmaz,Uzman,Emre Yalçın,Ekip,İşbirliği,Q1,5
+002,Hakan Yılmaz,Uzman,Mehmet Kalkan,Ast,İşbirliği,Q1,5
+002,Hakan Yılmaz,Uzman,Tuba Sarı,Ast,İşbirliği,Q1,4
+002,Hakan Yılmaz,Uzman,Alihan Gümüş,Ast,İşbirliği,Q1,5
+002,Hakan Yılmaz,Uzman,Filiz Akdemir,Yönetici,İşbirliği,Q2,2
+002,Hakan Yılmaz,Uzman,Burcu Temiz,Ekip,İşbirliği,Q2,4
+002,Hakan Yılmaz,Uzman,Volkan Erbay,Ekip,İşbirliği,Q2,4
+002,Hakan Yılmaz,Uzman,Emre Yalçın,Ekip,İşbirliği,Q2,2
+002,Hakan Yılmaz,Uzman,Mehmet Kalkan,Ast,İşbirliği,Q2,2
+002,Hakan Yılmaz,Uzman,Tuba Sarı,Ast,İşbirliği,Q2,5
+002,Hakan Yılmaz,Uzman,Alihan Gümüş,Ast,İşbirliği,Q2,5
+002,Hakan Yılmaz,Uzman,Filiz Akdemir,Yönetici,İşbirliği,Q3,2
+002,Hakan Yılmaz,Uzman,Burcu Temiz,Ekip,İşbirliği,Q3,5
+002,Hakan Yılmaz,Uzman,Volkan Erbay,Ekip,İşbirliği,Q3,2
+002,Hakan Yılmaz,Uzman,Emre Yalçın,Ekip,İşbirliği,Q3,2
+002,Hakan Yılmaz,Uzman,Mehmet Kalkan,Ast,İşbirliği,Q3,2
+002,Hakan Yılmaz,Uzman,Tuba Sarı,Ast,İşbirliği,Q3,5
+002,Hakan Yılmaz,Uzman,Alihan Gümüş,Ast,İşbirliği,Q3,4
+002,Hakan Yılmaz,Uzman,Filiz Akdemir,Yönetici,Analitik,Q1,2
+002,Hakan Yılmaz,Uzman,Burcu Temiz,Ekip,Analitik,Q1,4
+002,Hakan Yılmaz,Uzman,Volkan Erbay,Ekip,Analitik,Q1,4
+002,Hakan Yılmaz,Uzman,Emre Yalçın,Ekip,Analitik,Q1,3
+002,Hakan Yılmaz,Uzman,Mehmet Kalkan,Ast,Analitik,Q1,2
+002,Hakan Yılmaz,Uzman,Tuba Sarı,Ast,Analitik,Q1,3
+002,Hakan Yılmaz,Uzman,Alihan Gümüş,Ast,Analitik,Q1,5
+002,Hakan Yılmaz,Uzman,Filiz Akdemir,Yönetici,Analitik,Q2,4
+002,Hakan Yılmaz,Uzman,Burcu Temiz,Ekip,Analitik,Q2,5
+002,Hakan Yılmaz,Uzman,Volkan Erbay,Ekip,Analitik,Q2,4
+002,Hakan Yılmaz,Uzman,Emre Yalçın,Ekip,Analitik,Q2,2
+002,Hakan Yılmaz,Uzman,Mehmet Kalkan,Ast,Analitik,Q2,2
+002,Hakan Yılmaz,Uzman,Tuba Sarı,Ast,Analitik,Q2,3
+002,Hakan Yılmaz,Uzman,Alihan Gümüş,Ast,Analitik,Q2,3
+002,Hakan Yılmaz,Uzman,Filiz Akdemir,Yönetici,Analitik,Q3,4
+002,Hakan Yılmaz,Uzman,Burcu Temiz,Ekip,Analitik,Q3,4
+002,Hakan Yılmaz,Uzman,Volkan Erbay,Ekip,Analitik,Q3,3
+002,Hakan Yılmaz,Uzman,Emre Yalçın,Ekip,Analitik,Q3,2
+002,Hakan Yılmaz,Uzman,Mehmet Kalkan,Ast,Analitik,Q3,4
+002,Hakan Yılmaz,Uzman,Tuba Sarı,Ast,Analitik,Q3,4
+002,Hakan Yılmaz,Uzman,Alihan Gümüş,Ast,Analitik,Q3,3
+002,Hakan Yılmaz,Uzman,Filiz Akdemir,Yönetici,Teknik,Q1,4
+002,Hakan Yılmaz,Uzman,Burcu Temiz,Ekip,Teknik,Q1,3
+002,Hakan Yılmaz,Uzman,Volkan Erbay,Ekip,Teknik,Q1,4
+002,Hakan Yılmaz,Uzman,Emre Yalçın,Ekip,Teknik,Q1,5
+002,Hakan Yılmaz,Uzman,Mehmet Kalkan,Ast,Teknik,Q1,3
+002,Hakan Yılmaz,Uzman,Tuba Sarı,Ast,Teknik,Q1,4
+002,Hakan Yılmaz,Uzman,Alihan Gümüş,Ast,Teknik,Q1,5
+002,Hakan Yılmaz,Uzman,Filiz Akdemir,Yönetici,Teknik,Q2,3
+002,Hakan Yılmaz,Uzman,Burcu Temiz,Ekip,Teknik,Q2,2
+002,Hakan Yılmaz,Uzman,Volkan Erbay,Ekip,Teknik,Q2,3
+002,Hakan Yılmaz,Uzman,Emre Yalçın,Ekip,Teknik,Q2,3
+002,Hakan Yılmaz,Uzman,Mehmet Kalkan,Ast,Teknik,Q2,5
+002,Hakan Yılmaz,Uzman,Tuba Sarı,Ast,Teknik,Q2,2
+002,Hakan Yılmaz,Uzman,Alihan Gümüş,Ast,Teknik,Q2,2
+002,Hakan Yılmaz,Uzman,Filiz Akdemir,Yönetici,Teknik,Q3,4
+002,Hakan Yılmaz,Uzman,Burcu Temiz,Ekip,Teknik,Q3,2
+002,Hakan Yılmaz,Uzman,Volkan Erbay,Ekip,Teknik,Q3,5
+002,Hakan Yılmaz,Uzman,Emre Yalçın,Ekip,Teknik,Q3,5
+002,Hakan Yılmaz,Uzman,Mehmet Kalkan,Ast,Teknik,Q3,2
+002,Hakan Yılmaz,Uzman,Tuba Sarı,Ast,Teknik,Q3,4
+002,Hakan Yılmaz,Uzman,Alihan Gümüş,Ast,Teknik,Q3,3
+002,Hakan Yılmaz,Uzman,Filiz Akdemir,Yönetici,Emniyet,Q1,3
+002,Hakan Yılmaz,Uzman,Burcu Temiz,Ekip,Emniyet,Q1,4
+002,Hakan Yılmaz,Uzman,Volkan Erbay,Ekip,Emniyet,Q1,3
+002,Hakan Yılmaz,Uzman,Emre Yalçın,Ekip,Emniyet,Q1,4
+002,Hakan Yılmaz,Uzman,Mehmet Kalkan,Ast,Emniyet,Q1,5
+002,Hakan Yılmaz,Uzman,Tuba Sarı,Ast,Emniyet,Q1,2
+002,Hakan Yılmaz,Uzman,Alihan Gümüş,Ast,Emniyet,Q1,5
+002,Hakan Yılmaz,Uzman,Filiz Akdemir,Yönetici,Emniyet,Q2,3
+002,Hakan Yılmaz,Uzman,Burcu Temiz,Ekip,Emniyet,Q2,3
+002,Hakan Yılmaz,Uzman,Volkan Erbay,Ekip,Emniyet,Q2,2
+002,Hakan Yılmaz,Uzman,Emre Yalçın,Ekip,Emniyet,Q2,2
+002,Hakan Yılmaz,Uzman,Mehmet Kalkan,Ast,Emniyet,Q2,5
+002,Hakan Yılmaz,Uzman,Tuba Sarı,Ast,Emniyet,Q2,5
+002,Hakan Yılmaz,Uzman,Alihan Gümüş,Ast,Emniyet,Q2,4
+002,Hakan Yılmaz,Uzman,Filiz Akdemir,Yönetici,Emniyet,Q3,3
+002,Hakan Yılmaz,Uzman,Burcu Temiz,Ekip,Emniyet,Q3,4
+002,Hakan Yılmaz,Uzman,Volkan Erbay,Ekip,Emniyet,Q3,2
+002,Hakan Yılmaz,Uzman,Emre Yalçın,Ekip,Emniyet,Q3,3
+002,Hakan Yılmaz,Uzman,Mehmet Kalkan,Ast,Emniyet,Q3,3
+002,Hakan Yılmaz,Uzman,Tuba Sarı,Ast,Emniyet,Q3,5
+002,Hakan Yılmaz,Uzman,Alihan Gümüş,Ast,Emniyet,Q3,4
+002,Hakan Yılmaz,Uzman,Filiz Akdemir,Yönetici,Süreç,Q1,2
+002,Hakan Yılmaz,Uzman,Burcu Temiz,Ekip,Süreç,Q1,4
+002,Hakan Yılmaz,Uzman,Volkan Erbay,Ekip,Süreç,Q1,5
+002,Hakan Yılmaz,Uzman,Emre Yalçın,Ekip,Süreç,Q1,2
+002,Hakan Yılmaz,Uzman,Mehmet Kalkan,Ast,Süreç,Q1,3
+002,Hakan Yılmaz,Uzman,Tuba Sarı,Ast,Süreç,Q1,4
+002,Hakan Yılmaz,Uzman,Alihan Gümüş,Ast,Süreç,Q1,5
+002,Hakan Yılmaz,Uzman,Filiz Akdemir,Yönetici,Süreç,Q2,4
+002,Hakan Yılmaz,Uzman,Burcu Temiz,Ekip,Süreç,Q2,2
+002,Hakan Yılmaz,Uzman,Volkan Erbay,Ekip,Süreç,Q2,3
+002,Hakan Yılmaz,Uzman,Emre Yalçın,Ekip,Süreç,Q2,4
+002,Hakan Yılmaz,Uzman,Mehmet Kalkan,Ast,Süreç,Q2,3
+002,Hakan Yılmaz,Uzman,Tuba Sarı,Ast,Süreç,Q2,4
+002,Hakan Yılmaz,Uzman,Alihan Gümüş,Ast,Süreç,Q2,5
+002,Hakan Yılmaz,Uzman,Filiz Akdemir,Yönetici,Süreç,Q3,4
+002,Hakan Yılmaz,Uzman,Burcu Temiz,Ekip,Süreç,Q3,5
+002,Hakan Yılmaz,Uzman,Volkan Erbay,Ekip,Süreç,Q3,4
+002,Hakan Yılmaz,Uzman,Emre Yalçın,Ekip,Süreç,Q3,5
+002,Hakan Yılmaz,Uzman,Mehmet Kalkan,Ast,Süreç,Q3,2
+002,Hakan Yılmaz,Uzman,Tuba Sarı,Ast,Süreç,Q3,3
+002,Hakan Yılmaz,Uzman,Alihan Gümüş,Ast,Süreç,Q3,4
+003,Pelin Aras,Pilot,Ahmet Meriç,Yönetici,Etik Duruş,Q1,5
+003,Pelin Aras,Pilot,Sevgi Çetin,Ekip,Etik Duruş,Q1,3
+003,Pelin Aras,Pilot,Can Batur,Ekip,Etik Duruş,Q1,2
+003,Pelin Aras,Pilot,Simge Şen,Ekip,Etik Duruş,Q1,4
+003,Pelin Aras,Pilot,Ahmet Meriç,Yönetici,Etik Duruş,Q2,3
+003,Pelin Aras,Pilot,Sevgi Çetin,Ekip,Etik Duruş,Q2,3
+003,Pelin Aras,Pilot,Can Batur,Ekip,Etik Duruş,Q2,3
+003,Pelin Aras,Pilot,Simge Şen,Ekip,Etik Duruş,Q2,2
+003,Pelin Aras,Pilot,Ahmet Meriç,Yönetici,Etik Duruş,Q3,2
+003,Pelin Aras,Pilot,Sevgi Çetin,Ekip,Etik Duruş,Q3,5
+003,Pelin Aras,Pilot,Can Batur,Ekip,Etik Duruş,Q3,3
+003,Pelin Aras,Pilot,Simge Şen,Ekip,Etik Duruş,Q3,2
+003,Pelin Aras,Pilot,Ahmet Meriç,Yönetici,İletişim,Q1,2
+003,Pelin Aras,Pilot,Sevgi Çetin,Ekip,İletişim,Q1,2
+003,Pelin Aras,Pilot,Can Batur,Ekip,İletişim,Q1,5
+003,Pelin Aras,Pilot,Simge Şen,Ekip,İletişim,Q1,4
+003,Pelin Aras,Pilot,Ahmet Meriç,Yönetici,İletişim,Q2,2
+003,Pelin Aras,Pilot,Sevgi Çetin,Ekip,İletişim,Q2,3
+003,Pelin Aras,Pilot,Can Batur,Ekip,İletişim,Q2,3
+003,Pelin Aras,Pilot,Simge Şen,Ekip,İletişim,Q2,5
+003,Pelin Aras,Pilot,Ahmet Meriç,Yönetici,İletişim,Q3,2
+003,Pelin Aras,Pilot,Sevgi Çetin,Ekip,İletişim,Q3,2
+003,Pelin Aras,Pilot,Can Batur,Ekip,İletişim,Q3,3
+003,Pelin Aras,Pilot,Simge Şen,Ekip,İletişim,Q3,5
+003,Pelin Aras,Pilot,Ahmet Meriç,Yönetici,İşbirliği,Q1,2
+003,Pelin Aras,Pilot,Sevgi Çetin,Ekip,İşbirliği,Q1,2
+003,Pelin Aras,Pilot,Can Batur,Ekip,İşbirliği,Q1,2
+003,Pelin Aras,Pilot,Simge Şen,Ekip,İşbirliği,Q1,5
+003,Pelin Aras,Pilot,Ahmet Meriç,Yönetici,İşbirliği,Q2,4
+003,Pelin Aras,Pilot,Sevgi Çetin,Ekip,İşbirliği,Q2,4
+003,Pelin Aras,Pilot,Can Batur,Ekip,İşbirliği,Q2,3
+003,Pelin Aras,Pilot,Simge Şen,Ekip,İşbirliği,Q2,4
+003,Pelin Aras,Pilot,Ahmet Meriç,Yönetici,İşbirliği,Q3,4
+003,Pelin Aras,Pilot,Sevgi Çetin,Ekip,İşbirliği,Q3,3
+003,Pelin Aras,Pilot,Can Batur,Ekip,İşbirliği,Q3,2
+003,Pelin Aras,Pilot,Simge Şen,Ekip,İşbirliği,Q3,5
+003,Pelin Aras,Pilot,Ahmet Meriç,Yönetici,Analitik,Q1,4
+003,Pelin Aras,Pilot,Sevgi Çetin,Ekip,Analitik,Q1,3
+003,Pelin Aras,Pilot,Can Batur,Ekip,Analitik,Q1,4
+003,Pelin Aras,Pilot,Simge Şen,Ekip,Analitik,Q1,5
+003,Pelin Aras,Pilot,Ahmet Meriç,Yönetici,Analitik,Q2,2
+003,Pelin Aras,Pilot,Sevgi Çetin,Ekip,Analitik,Q2,3
+003,Pelin Aras,Pilot,Can Batur,Ekip,Analitik,Q2,5
+003,Pelin Aras,Pilot,Simge Şen,Ekip,Analitik,Q2,5
+003,Pelin Aras,Pilot,Ahmet Meriç,Yönetici,Analitik,Q3,2
+003,Pelin Aras,Pilot,Sevgi Çetin,Ekip,Analitik,Q3,3
+003,Pelin Aras,Pilot,Can Batur,Ekip,Analitik,Q3,3
+003,Pelin Aras,Pilot,Simge Şen,Ekip,Analitik,Q3,4
+003,Pelin Aras,Pilot,Ahmet Meriç,Yönetici,Teknik,Q1,5
+003,Pelin Aras,Pilot,Sevgi Çetin,Ekip,Teknik,Q1,2
+003,Pelin Aras,Pilot,Can Batur,Ekip,Teknik,Q1,2
+003,Pelin Aras,Pilot,Simge Şen,Ekip,Teknik,Q1,2
+003,Pelin Aras,Pilot,Ahmet Meriç,Yönetici,Teknik,Q2,5
+003,Pelin Aras,Pilot,Sevgi Çetin,Ekip,Teknik,Q2,2
+003,Pelin Aras,Pilot,Can Batur,Ekip,Teknik,Q2,3
+003,Pelin Aras,Pilot,Simge Şen,Ekip,Teknik,Q2,2
+003,Pelin Aras,Pilot,Ahmet Meriç,Yönetici,Teknik,Q3,5
+003,Pelin Aras,Pilot,Sevgi Çetin,Ekip,Teknik,Q3,2
+003,Pelin Aras,Pilot,Can Batur,Ekip,Teknik,Q3,4
+003,Pelin Aras,Pilot,Simge Şen,Ekip,Teknik,Q3,2
+003,Pelin Aras,Pilot,Ahmet Meriç,Yönetici,Emniyet,Q1,4
+003,Pelin Aras,Pilot,Sevgi Çetin,Ekip,Emniyet,Q1,2
+003,Pelin Aras,Pilot,Can Batur,Ekip,Emniyet,Q1,4
+003,Pelin Aras,Pilot,Simge Şen,Ekip,Emniyet,Q1,3
+003,Pelin Aras,Pilot,Ahmet Meriç,Yönetici,Emniyet,Q2,4
+003,Pelin Aras,Pilot,Sevgi Çetin,Ekip,Emniyet,Q2,4
+003,Pelin Aras,Pilot,Can Batur,Ekip,Emniyet,Q2,2
+003,Pelin Aras,Pilot,Simge Şen,Ekip,Emniyet,Q2,2
+003,Pelin Aras,Pilot,Ahmet Meriç,Yönetici,Emniyet,Q3,3
+003,Pelin Aras,Pilot,Sevgi Çetin,Ekip,Emniyet,Q3,5
+003,Pelin Aras,Pilot,Can Batur,Ekip,Emniyet,Q3,2
+003,Pelin Aras,Pilot,Simge Şen,Ekip,Emniyet,Q3,3
+003,Pelin Aras,Pilot,Ahmet Meriç,Yönetici,Süreç,Q1,2
+003,Pelin Aras,Pilot,Sevgi Çetin,Ekip,Süreç,Q1,5
+003,Pelin Aras,Pilot,Can Batur,Ekip,Süreç,Q1,5
+003,Pelin Aras,Pilot,Simge Şen,Ekip,Süreç,Q1,4
+003,Pelin Aras,Pilot,Ahmet Meriç,Yönetici,Süreç,Q2,2
+003,Pelin Aras,Pilot,Sevgi Çetin,Ekip,Süreç,Q2,2
+003,Pelin Aras,Pilot,Can Batur,Ekip,Süreç,Q2,5
+003,Pelin Aras,Pilot,Simge Şen,Ekip,Süreç,Q2,3
+003,Pelin Aras,Pilot,Ahmet Meriç,Yönetici,Süreç,Q3,4
+003,Pelin Aras,Pilot,Sevgi Çetin,Ekip,Süreç,Q3,3
+003,Pelin Aras,Pilot,Can Batur,Ekip,Süreç,Q3,2
+003,Pelin Aras,Pilot,Simge Şen,Ekip,Süreç,Q3,5
+004,Cem Gürcan,Yönetici,Genel Müdür,Yönetici,Etik Duruş,Q1,3
+004,Cem Gürcan,Yönetici,Genel Müdür,Yönetici,Etik Duruş,Q2,5
+004,Cem Gürcan,Yönetici,Genel Müdür,Yönetici,Etik Duruş,Q3,4
+004,Cem Gürcan,Yönetici,Genel Müdür,Yönetici,İletişim,Q1,4
+004,Cem Gürcan,Yönetici,Genel Müdür,Yönetici,İletişim,Q2,4
+004,Cem Gürcan,Yönetici,Genel Müdür,Yönetici,İletişim,Q3,2
+004,Cem Gürcan,Yönetici,Genel Müdür,Yönetici,İşbirliği,Q1,4
+004,Cem Gürcan,Yönetici,Genel Müdür,Yönetici,İşbirliği,Q2,4
+004,Cem Gürcan,Yönetici,Genel Müdür,Yönetici,İşbirliği,Q3,5
+004,Cem Gürcan,Yönetici,Genel Müdür,Yönetici,Analitik,Q1,4
+004,Cem Gürcan,Yönetici,Genel Müdür,Yönetici,Analitik,Q2,4
+004,Cem Gürcan,Yönetici,Genel Müdür,Yönetici,Analitik,Q3,4
+004,Cem Gürcan,Yönetici,Genel Müdür,Yönetici,Teknik,Q1,2
+004,Cem Gürcan,Yönetici,Genel Müdür,Yönetici,Teknik,Q2,4
+004,Cem Gürcan,Yönetici,Genel Müdür,Yönetici,Teknik,Q3,5
+004,Cem Gürcan,Yönetici,Genel Müdür,Yönetici,Emniyet,Q1,4
+004,Cem Gürcan,Yönetici,Genel Müdür,Yönetici,Emniyet,Q2,2
+004,Cem Gürcan,Yönetici,Genel Müdür,Yönetici,Emniyet,Q3,3
+004,Cem Gürcan,Yönetici,Genel Müdür,Yönetici,Süreç,Q1,4
+004,Cem Gürcan,Yönetici,Genel Müdür,Yönetici,Süreç,Q2,4
+004,Cem Gürcan,Yönetici,Genel Müdür,Yönetici,Süreç,Q3,2
+005,Serkan Topçu,Teknisyen,İlker Aydın,1.Yönetici,Etik Duruş,Q1,4
+005,Serkan Topçu,Teknisyen,Murat Elmas,2.Yönetici,Etik Duruş,Q1,5
+005,Serkan Topçu,Teknisyen,İlker Aydın,1.Yönetici,Etik Duruş,Q2,4
+005,Serkan Topçu,Teknisyen,Murat Elmas,2.Yönetici,Etik Duruş,Q2,3
+005,Serkan Topçu,Teknisyen,İlker Aydın,1.Yönetici,Etik Duruş,Q3,2
+005,Serkan Topçu,Teknisyen,Murat Elmas,2.Yönetici,Etik Duruş,Q3,3
+005,Serkan Topçu,Teknisyen,İlker Aydın,1.Yönetici,İletişim,Q1,3
+005,Serkan Topçu,Teknisyen,Murat Elmas,2.Yönetici,İletişim,Q1,5
+005,Serkan Topçu,Teknisyen,İlker Aydın,1.Yönetici,İletişim,Q2,4
+005,Serkan Topçu,Teknisyen,Murat Elmas,2.Yönetici,İletişim,Q2,4
+005,Serkan Topçu,Teknisyen,İlker Aydın,1.Yönetici,İletişim,Q3,4
+005,Serkan Topçu,Teknisyen,Murat Elmas,2.Yönetici,İletişim,Q3,5
+005,Serkan Topçu,Teknisyen,İlker Aydın,1.Yönetici,İşbirliği,Q1,2
+005,Serkan Topçu,Teknisyen,Murat Elmas,2.Yönetici,İşbirliği,Q1,5
+005,Serkan Topçu,Teknisyen,İlker Aydın,1.Yönetici,İşbirliği,Q2,5
+005,Serkan Topçu,Teknisyen,Murat Elmas,2.Yönetici,İşbirliği,Q2,2
+005,Serkan Topçu,Teknisyen,İlker Aydın,1.Yönetici,İşbirliği,Q3,5
+005,Serkan Topçu,Teknisyen,Murat Elmas,2.Yönetici,İşbirliği,Q3,4
+005,Serkan Topçu,Teknisyen,İlker Aydın,1.Yönetici,Analitik,Q1,5
+005,Serkan Topçu,Teknisyen,Murat Elmas,2.Yönetici,Analitik,Q1,3
+005,Serkan Topçu,Teknisyen,İlker Aydın,1.Yönetici,Analitik,Q2,2
+005,Serkan Topçu,Teknisyen,Murat Elmas,2.Yönetici,Analitik,Q2,4
+005,Serkan Topçu,Teknisyen,İlker Aydın,1.Yönetici,Analitik,Q3,2
+005,Serkan Topçu,Teknisyen,Murat Elmas,2.Yönetici,Analitik,Q3,4
+005,Serkan Topçu,Teknisyen,İlker Aydın,1.Yönetici,Teknik,Q1,3
+005,Serkan Topçu,Teknisyen,Murat Elmas,2.Yönetici,Teknik,Q1,4
+005,Serkan Topçu,Teknisyen,İlker Aydın,1.Yönetici,Teknik,Q2,4
+005,Serkan Topçu,Teknisyen,Murat Elmas,2.Yönetici,Teknik,Q2,2
+005,Serkan Topçu,Teknisyen,İlker Aydın,1.Yönetici,Teknik,Q3,4
+005,Serkan Topçu,Teknisyen,Murat Elmas,2.Yönetici,Teknik,Q3,2
+005,Serkan Topçu,Teknisyen,İlker Aydın,1.Yönetici,Emniyet,Q1,3
+005,Serkan Topçu,Teknisyen,Murat Elmas,2.Yönetici,Emniyet,Q1,5
+005,Serkan Topçu,Teknisyen,İlker Aydın,1.Yönetici,Emniyet,Q2,3
+005,Serkan Topçu,Teknisyen,Murat Elmas,2.Yönetici,Emniyet,Q2,3
+005,Serkan Topçu,Teknisyen,İlker Aydın,1.Yönetici,Emniyet,Q3,5
+005,Serkan Topçu,Teknisyen,Murat Elmas,2.Yönetici,Emniyet,Q3,3
+005,Serkan Topçu,Teknisyen,İlker Aydın,1.Yönetici,Süreç,Q1,2
+005,Serkan Topçu,Teknisyen,Murat Elmas,2.Yönetici,Süreç,Q1,4
+005,Serkan Topçu,Teknisyen,İlker Aydın,1.Yönetici,Süreç,Q2,2
+005,Serkan Topçu,Teknisyen,Murat Elmas,2.Yönetici,Süreç,Q2,2
+005,Serkan Topçu,Teknisyen,İlker Aydın,1.Yönetici,Süreç,Q3,5
+005,Serkan Topçu,Teknisyen,Murat Elmas,2.Yönetici,Süreç,Q3,2
+006,Ali Rıza Çetin,Operatör,İlker Aydın,1.Yönetici,Etik Duruş,Q1,2
+006,Ali Rıza Çetin,Operatör,Murat Elmas,2.Yönetici,Etik Duruş,Q1,3
+006,Ali Rıza Çetin,Operatör,İlker Aydın,1.Yönetici,Etik Duruş,Q2,2
+006,Ali Rıza Çetin,Operatör,Murat Elmas,2.Yönetici,Etik Duruş,Q2,5
+006,Ali Rıza Çetin,Operatör,İlker Aydın,1.Yönetici,Etik Duruş,Q3,3
+006,Ali Rıza Çetin,Operatör,Murat Elmas,2.Yönetici,Etik Duruş,Q3,4
+006,Ali Rıza Çetin,Operatör,İlker Aydın,1.Yönetici,İletişim,Q1,4
+006,Ali Rıza Çetin,Operatör,Murat Elmas,2.Yönetici,İletişim,Q1,3
+006,Ali Rıza Çetin,Operatör,İlker Aydın,1.Yönetici,İletişim,Q2,3
+006,Ali Rıza Çetin,Operatör,Murat Elmas,2.Yönetici,İletişim,Q2,5
+006,Ali Rıza Çetin,Operatör,İlker Aydın,1.Yönetici,İletişim,Q3,4
+006,Ali Rıza Çetin,Operatör,Murat Elmas,2.Yönetici,İletişim,Q3,5
+006,Ali Rıza Çetin,Operatör,İlker Aydın,1.Yönetici,İşbirliği,Q1,2
+006,Ali Rıza Çetin,Operatör,Murat Elmas,2.Yönetici,İşbirliği,Q1,3
+006,Ali Rıza Çetin,Operatör,İlker Aydın,1.Yönetici,İşbirliği,Q2,4
+006,Ali Rıza Çetin,Operatör,Murat Elmas,2.Yönetici,İşbirliği,Q2,3
+006,Ali Rıza Çetin,Operatör,İlker Aydın,1.Yönetici,İşbirliği,Q3,3
+006,Ali Rıza Çetin,Operatör,Murat Elmas,2.Yönetici,İşbirliği,Q3,2
+006,Ali Rıza Çetin,Operatör,İlker Aydın,1.Yönetici,Analitik,Q1,3
+006,Ali Rıza Çetin,Operatör,Murat Elmas,2.Yönetici,Analitik,Q1,3
+006,Ali Rıza Çetin,Operatör,İlker Aydın,1.Yönetici,Analitik,Q2,3
+006,Ali Rıza Çetin,Operatör,Murat Elmas,2.Yönetici,Analitik,Q2,2
+006,Ali Rıza Çetin,Operatör,İlker Aydın,1.Yönetici,Analitik,Q3,2
+006,Ali Rıza Çetin,Operatör,Murat Elmas,2.Yönetici,Analitik,Q3,3
+006,Ali Rıza Çetin,Operatör,İlker Aydın,1.Yönetici,Teknik,Q1,2
+006,Ali Rıza Çetin,Operatör,Murat Elmas,2.Yönetici,Teknik,Q1,3
+006,Ali Rıza Çetin,Operatör,İlker Aydın,1.Yönetici,Teknik,Q2,4
+006,Ali Rıza Çetin,Operatör,Murat Elmas,2.Yönetici,Teknik,Q2,4
+006,Ali Rıza Çetin,Operatör,İlker Aydın,1.Yönetici,Teknik,Q3,2
+006,Ali Rıza Çetin,Operatör,Murat Elmas,2.Yönetici,Teknik,Q3,3
+006,Ali Rıza Çetin,Operatör,İlker Aydın,1.Yönetici,Emniyet,Q1,3
+006,Ali Rıza Çetin,Operatör,Murat Elmas,2.Yönetici,Emniyet,Q1,5
+006,Ali Rıza Çetin,Operatör,İlker Aydın,1.Yönetici,Emniyet,Q2,2
+006,Ali Rıza Çetin,Operatör,Murat Elmas,2.Yönetici,Emniyet,Q2,3
+006,Ali Rıza Çetin,Operatör,İlker Aydın,1.Yönetici,Emniyet,Q3,2
+006,Ali Rıza Çetin,Operatör,Murat Elmas,2.Yönetici,Emniyet,Q3,2
+006,Ali Rıza Çetin,Operatör,İlker Aydın,1.Yönetici,Süreç,Q1,5
+006,Ali Rıza Çetin,Operatör,Murat Elmas,2.Yönetici,Süreç,Q1,3
+006,Ali Rıza Çetin,Operatör,İlker Aydın,1.Yönetici,Süreç,Q2,5
+006,Ali Rıza Çetin,Operatör,Murat Elmas,2.Yönetici,Süreç,Q2,2
+006,Ali Rıza Çetin,Operatör,İlker Aydın,1.Yönetici,Süreç,Q3,5
+006,Ali Rıza Çetin,Operatör,Murat Elmas,2.Yönetici,Süreç,Q3,4
