@@ -7,7 +7,7 @@ import base64
 import mimetypes
 
 # --- BACKEND MODÜL ENTEGRASYONU ---
-# Not: Bu dosyaların (src/ klasörü altında) mevcut olduğundan emin olun.
+# Not: src/yetkinlik_skor_hesaplayici.py dosyası güncellenmiş (birleştirilmiş) haliyle olmalıdır.
 from src.yetkinlik_skor_hesaplayici import YetkinlikSkorHesaplayici
 from src.tavsiye_motoru import TavsiyeMotoru
 from src.etkinlik_kaziyici import EtkinlikKaziyici
@@ -73,7 +73,7 @@ st.markdown("""
     
     .rec-body { font-size: 13px; color: #455A64; line-height: 1.6; margin-top: 12px; }
 
-    /* Tablo Stili (DÜZELTİLDİ) */
+    /* Tablo Stili */
     table.score-table { width: 100%; border-collapse: collapse; margin-top: 5px; background: white; }
     table.score-table td { padding: 12px 8px; border-bottom: 1px solid #f1f1f1; vertical-align: middle; }
     .score-label { font-size: 13px; font-weight: 600; color: #37474F; width: 40%; }
@@ -100,6 +100,7 @@ def sistemi_baslat():
     json_yolu = kok_dizin / "lookup" / "tavsiye_kurallari.json"
     etkinlik_yolu = kok_dizin / "data" / "input" / "etkinlik_listesi.csv"
     
+    # Yeni birleştirilmiş backend yapısı başlatılıyor
     hesaplayici = YetkinlikSkorHesaplayici(str(veri_yolu))
     tavsiye_motoru = TavsiyeMotoru(str(json_yolu))
     etkinlik_kaziyici = EtkinlikKaziyici(str(etkinlik_yolu))
@@ -177,8 +178,10 @@ for isim in set(arama_listesi):
             break
     if foto_yolu: break
 
-# Skor Hesaplamaları
-final_skorlar = hesaplayici.hesaplaAgirlikliYetkinlikSkorlari(calisan_id, yaka_tipi)
+# --- SKOR HESAPLAMA (GÜNCELLENDİ) ---
+# Artık tek parametre (calisan_id) alıyor. Yaka tipi backend içinde yönetiliyor.
+final_skorlar = hesaplayici.hesapla(calisan_id)
+
 if not final_skorlar:
     st.warning("Yeterli veri yok.")
     st.stop()
@@ -263,7 +266,6 @@ fig_fark.add_trace(go.Scatter(
     name='Bireysel',
     text=['B'], # Bireysel
     textposition='middle center',
-    # Puan yüksekse daha büyük, düşükse daha küçük görünsün (opsiyonel görsel efekt)
     marker=dict(color='#1A237E', size=60, opacity=0.85, line=dict(color='white', width=2)),
     textfont=dict(color='white', size=18, weight='bold'),
     hoverinfo='text',
@@ -320,7 +322,7 @@ with col_radar:
     st.plotly_chart(fig_radar, use_container_width=True)
 
 with col_table:
-    # HTML Skor Tablosu (DÜZELTİLMİŞ - HTML GÖRÜNME HATASI YOK)
+    # HTML Skor Tablosu
     st.markdown("**Detaylı Puan Tablosu**")
     sorted_scores = sorted(final_skorlar.items(), key=lambda x: x[1], reverse=True)
     
@@ -328,7 +330,6 @@ with col_table:
     for k, v in sorted_scores:
         bar_width = int((v/5)*100)
         color = "#2E7D32" if v >= 3.5 else ("#FF9800" if v >= 3.0 else "#D32F2F")
-        # HTML'i tek satırda, boşluksuz birleştiriyoruz (Compact HTML)
         rows_html += f"<tr><td class='score-label'>{k}</td><td style='width:50%;'><div class='progress-container'><div class='progress-fill' style='width:{bar_width}%; background-color:{color};'></div></div></td><td class='score-val'>{v}</td></tr>"
 
     full_table_html = f"""<table class="score-table">{rows_html}</table>"""
@@ -356,7 +357,6 @@ def kart_ciz(baslik, tavsiye, skor, tip):
         css = "card-strong"; badge_bg = "bg-strong"; label = "GÜÇLÜ"
         body_content = "" # Güçlü yönlerde metin gizli
     
-    # Skor kutusu sağa yaslanmış bir "pill" şeklinde
     score_html = f"""
     <div style="margin-top:auto; display:flex; justify-content:flex-end;">
         <span style="background-color:#F5F5F5; padding:4px 8px; border-radius:4px; font-size:11px; font-weight:700; color:#546E7A;">
@@ -411,7 +411,6 @@ if filtrelenmis_egitimler:
     for yetkinlik, egitimler in filtrelenmis_egitimler.items():
         with st.expander(f"{yetkinlik} - İlgili Eğitimler ({len(egitimler)})"):
             for e in egitimler:
-                # Emojiler kaldırıldı, sadece metin
                 st.markdown(f"""
                 <div style='border-bottom:1px solid #f0f0f0; padding:12px 0; display:flex; justify-content:space-between; align-items:center;'>
                     <div>
